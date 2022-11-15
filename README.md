@@ -15,10 +15,9 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
+### INSTRUCTIONS
+```
 Run the express server with npm run dev
 
 Run the vue server with npm run serve
+```
