@@ -1,3 +1,9 @@
+### INSTRUCTIONS
+```
+Run the express server with npm run dev
+
+Run the vue server with npm run serve
+```
 # meven-stack-app
 
 ## Project setup
@@ -15,9 +21,4 @@ npm run serve
 npm run build
 ```
 
-### INSTRUCTIONS
-```
-Run the express server with npm run dev
 
-Run the vue server with npm run serve
-```
